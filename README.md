@@ -1,0 +1,3 @@
+- Menu, modes VS Bot / VS Joueur
+- Physique de rebond dynamique et système de particules
+- Score jusqu'à 11 points
